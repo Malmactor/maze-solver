@@ -1,2 +1,2 @@
 # maze-solver
-A deep reinforcement learning based Maze Solver
+A Deep Reinforcement Learning Based Maze Solver
