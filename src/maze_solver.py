@@ -3,9 +3,6 @@ import pqdict
 
 import generator
 
-np.random.seed(0)
-
-
 def get_start_end(maze):
     r, c = maze.shape
     start = np.argwhere(maze == 3).flatten()
